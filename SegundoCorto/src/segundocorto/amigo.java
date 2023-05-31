@@ -18,7 +18,7 @@ public class amigo {
         this.nombre = nombre;
     }
     
-    public void setEdas(int edad) {
+    public void setEdad(int edad) {
         this.edad = edad;
     }
 
